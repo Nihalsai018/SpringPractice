@@ -10,7 +10,7 @@ public class Airtel implements Sim {
     }
 
 /**
- * simslot ();;
+ * simslot ();
  */
     @Override
     public void simslot() {
