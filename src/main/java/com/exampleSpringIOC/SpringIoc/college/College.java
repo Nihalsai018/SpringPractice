@@ -8,8 +8,6 @@ import org.springframework.stereotype.Component;
 @Component
 public class College {
 
-    private String revert;
-
     @Value("maissamaguda,HYD")
     private String collegeAddress;
 
